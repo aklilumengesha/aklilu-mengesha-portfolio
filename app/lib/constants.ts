@@ -9,8 +9,8 @@ import {
     FiDatabase,
     FiCpu
 } from 'react-icons/fi'
-import { FaReact, FaNodeJs } from 'react-icons/fa'
-import { SiNextdotjs, SiTypescript, SiTailwindcss, SiGraphql } from 'react-icons/si'
+import { FaReact, FaNodeJs, FaLaravel, FaPhp } from 'react-icons/fa'
+import { SiNextdotjs, SiTypescript, SiTailwindcss, SiNestjs, SiFastify } from 'react-icons/si'
 
 export const navLinks = [
     { name: 'Home', href: 'home' },
@@ -31,8 +31,11 @@ export const skills = [
     { name: 'Next.js', icon: SiNextdotjs },
     { name: 'TypeScript', icon: SiTypescript },
     { name: 'Node.js', icon: FaNodeJs },
+    { name: 'NestJS', icon: SiNestjs },
+    { name: 'Fastify', icon: SiFastify },
+    { name: 'Laravel', icon: FaLaravel },
+    { name: 'PHP', icon: FaPhp },
     { name: 'Tailwind CSS', icon: SiTailwindcss },
-    { name: 'GraphQL', icon: SiGraphql },
 ]
 
 export const projects = [
