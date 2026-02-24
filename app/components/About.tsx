@@ -24,15 +24,16 @@ export default function About() {
                     className="md:w-1/2"
                 >
                     <p className="text-gray-400 mb-6">
-                        I'm a passionate web developer with 5+ years of experience creating modern web applications.
-                        I specialize in JavaScript frameworks like React and Next.js, and I love building intuitive user interfaces.
-                    </p>
-                    <p className="text-gray-400 mb-6">
-                        My journey in web development started when I was in college, and I've been hooked ever since.
-                        I enjoy solving complex problems and turning ideas into reality through code.
+                        I'm a passionate full-stack developer specializing in modern web applications. With expertise in Next.js and React for frontend development,
+                         and Node.js, NestJS, Laravel, and PHP for backend systems, I deliver end-to-end solutions that combine elegant interfaces with robust server architecture.
+                         </p>
+                    <p className="text-gray-400 mb-6">My versatile skill set spans both JavaScript and PHP ecosystems. I excel at architecting RESTful APIs,
+                         implementing complex business logic, and creating responsive user experiences.
+                         Whether building real-time applications or enterprise solutions, 
+                        I bring technical proficiency and problem-solving expertise to every project.
                     </p>
                     <p className="text-gray-400">
-                        When I'm not coding, you can find me hiking, reading sci-fi novels, or experimenting with new technologies.
+                        Beyond coding, I stay current with industry best practices and emerging technologies. I believe in collaboration and clear communication to transform ideas into production-ready applications. When not developing, I explore new frameworks, contribute to open-source, and share knowledge with the developer community.
                     </p>
                 </motion.div>
 
