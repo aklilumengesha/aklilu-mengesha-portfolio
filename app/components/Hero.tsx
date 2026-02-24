@@ -65,7 +65,7 @@ export default function Hero() {
                 >
                     <div className='relative mx-auto md:ml-auto'>
                         <Image
-                            src="/AliRaza.png"
+                            src="/ake.png"
                             alt="ali-avatar"
                             className="rounded-full w-4/5 xl:w-[90%] mx-auto md:ml-auto h-full object-contain"
                             width={350}
