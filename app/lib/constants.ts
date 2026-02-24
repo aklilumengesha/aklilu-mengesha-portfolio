@@ -21,9 +21,9 @@ export const navLinks = [
 ];
 
 export const socialLinks = [
-    { name: 'GitHub', url: 'https://github.com/alirazahaider', icon: FiGithub },
-    { name: 'LinkedIn', url: 'https://www.linkedin.com/in/alirazaweb/', icon: FiLinkedin },
-    { name: 'Email', url: 'mailto:alicodespace@gmail.com', icon: FiMail },
+    { name: 'GitHub', url: 'https://github.com/aklilumengesha', icon: FiGithub },
+    { name: 'LinkedIn', url: 'https://www.linkedin.com/in/aklilu-mengesha-160773311/', icon: FiLinkedin },
+    { name: 'Email', url: 'mailto:aklilumengesha57@gmail.com', icon: FiMail },
 ]
 
 export const skills = [
