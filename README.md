@@ -31,11 +31,11 @@ Live Demo: [web-dev-portfolio-template.vercel.app](https://web-dev-portfolio-tem
 ## 📦 Installation
 
 ```bash
-git clone https://github.com/Alirazahaider/web-dev-portfolio
+git clone https://github.com/aklilumengesha/aklilu-mengesha-portfolio
 ```
 
 ```bash
-cd web-dev-portfolio
+cd aklilu-mengesha-portfolio
 ```
 
 ```bash
@@ -50,9 +50,9 @@ npm run dev
 
 Thank you for checking out this project! If you have any questions, suggestions, would like to collaborate, or need my development services:
 
-[![Email](https://img.shields.io/badge/-Email-0e5255?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alicodespace@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0e5255?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alirazaweb)
+[![Email](https://img.shields.io/badge/-Email-0e5255?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aklilumengesha57@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0e5255?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aklilu-mengesha-160773311/)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-0e5255?style=for-the-badge&logo=google-chrome&logoColor=white)](https://alicodez.vercel.app/)
 
 ⭐ Support the project by starring the repository!
-[![GitHub stars](https://img.shields.io/github/stars/Alirazahaider/web-dev-portfolio?style=social)](https://github.com/Alirazahaider/web-dev-portfolio)
+[![GitHub stars](https://img.shields.io/github/stars/Alirazahaider/web-dev-portfolio?style=social)](https://github.com/aklilumengesha/aklilu-mengesha-portfolio)
