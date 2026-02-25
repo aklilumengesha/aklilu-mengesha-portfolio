@@ -8,10 +8,10 @@ export default function Footer() {
                 <div className="flex flex-col md:flex-row justify-between items-center gap-8">
                     <div className="text-center md:text-left">
                         <Link href="/" className="text-2xl font-bold bg-gradient-to-r from-purple-600 to-blue-500 bg-clip-text text-transparent">
-                            AliRaza
+                            Aklilu Mengesha
                         </Link>
                         <p className="text-gray-400 mt-2">
-                            Building digital experiences that matter
+                            Building scalable web solutions
                         </p>
                     </div>
 
@@ -31,7 +31,7 @@ export default function Footer() {
                             ))}
                         </div>
                         <p className="text-gray-500 text-sm">
-                            © {new Date().getFullYear()} AliRaza. All rights reserved.
+                            © {new Date().getFullYear()} Aklilu Mengesha. All rights reserved.
                         </p>
                     </div>
                 </div>

@@ -8,7 +8,7 @@ const poppins = Poppins({
     variable: '--font-poppins',
 });
 export const metadata: Metadata = {
-    title: 'Ali Raza | Full Stack Developer',
+    title: 'Aklilu Mengesha | Full Stack Developer',
     description: 'A modern portfolio for a web developer',
 }
 

@@ -25,7 +25,7 @@ export default function About() {
                 >
                     <p className="text-gray-400 mb-6">
                         I'm a passionate full-stack developer specializing in modern web applications. With expertise in Next.js and React for frontend development,
-                         and Node.js, NestJS, Laravel, and PHP for backend systems, I deliver end-to-end solutions that combine elegant interfaces with robust server architecture.
+                         and Node.js, NestJS, Fastify, Laravel, and PHP for backend systems, I deliver end-to-end solutions that combine elegant interfaces with robust server architecture.
                          </p>
                     <p className="text-gray-400 mb-6">My versatile skill set spans both JavaScript and PHP ecosystems. I excel at architecting RESTful APIs,
                          implementing complex business logic, and creating responsive user experiences.

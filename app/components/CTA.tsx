@@ -30,7 +30,7 @@ export default function CTA() {
                     </p>
                     <div className="flex flex-col sm:flex-row justify-center gap-4">
                         <Link
-                            href="mailto:alicodespace@gmail.com"
+                            href="mailto:aklilumengesha57@gmail.com"
                             className="px-8 py-4 rounded-full bg-gradient-to-r from-purple-600 to-blue-500 text-white hover:opacity-90 transition-opacity font-medium"
                         >
                             Get In Touch
