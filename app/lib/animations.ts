@@ -12,7 +12,7 @@ export const fadeIn = (direction: string, type: string, delay: number, duration:
             y: 0,
             opacity: 1,
             transition: {
-                type: type,
+                type: type as any,
                 delay: delay,
                 duration: duration,
                 ease: 'easeOut',
@@ -36,7 +36,7 @@ export const slideIn = (
             x: 0,
             y: 0,
             transition: {
-                type: type,
+                type: type as any,
                 delay: delay,
                 duration: duration,
                 ease: 'easeOut',
