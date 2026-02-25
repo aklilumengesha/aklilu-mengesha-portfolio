@@ -2,7 +2,7 @@
 
 A clean, high-performance portfolio template built with Next.js, Tailwind CSS, and Framer Motion. Designed for developers to showcase projects with smooth animations, responsive layouts, and zero setup headaches.
 
-![Web Dev Portfolio Screenshot](./public/images/screenshot.png)
+![Web Dev Portfolio Screenshot](./public/images/imi22.png)
 
 Live Demo: [web-dev-portfolio-template.vercel.app](https://web-dev-portfolio-template.vercel.app/)
 
