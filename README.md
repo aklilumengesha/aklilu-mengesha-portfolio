@@ -4,7 +4,7 @@ A clean, high-performance portfolio template built with Next.js, Tailwind CSS, a
 
 ![Web Dev Portfolio Screenshot](./public/images/imi22.png)
 
-Live Demo: [web-dev-portfolio-template.vercel.app](https://web-dev-portfolio-template.vercel.app/)
+Live Demo: [aklilu-mengesha-portfolio.vercel.app](https://aklilu-mengesha-portfolio.vercel.app/)
 
 ---
 
